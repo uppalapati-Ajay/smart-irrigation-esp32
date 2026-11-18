@@ -1,0 +1,4 @@
+# Wokwi Library Manager (Libraries tab) - add these
+PubSubClient
+DHT sensor library
+Adafruit Unified Sensor
